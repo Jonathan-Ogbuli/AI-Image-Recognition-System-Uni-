@@ -1,5 +1,5 @@
 # AI Image Recognition System (Uni)
-Code voor het project Finding owners of stolen and lost art of World War II through AI image recognition voor het Ministerie van Onderwijs, Cultuur en Wetenschap  Rijksdienst voor het Cultureel Erfgoed.
+Code for the project Finding owners of stolen and lost art of World War II through AI image recognition for het Ministerie van Onderwijs, Cultuur en Wetenschap  Rijksdienst voor het Cultureel Erfgoed.
 
 # Datasets
 We have lots of different folders for images explained below:
